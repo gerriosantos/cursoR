@@ -1,0 +1,29 @@
+Package: cursoR
+Title: O Meu Pacote Do Curso
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gerrio",
+           family = "Barbosa",
+           role = c("aut", "cre"),
+           email = "gerriosantos@example.com",
+           comment = c(ORCID = "gerriosantos"))
+Description: Essa é a descrição.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    base,
+    dplyr,
+    magrittr,
+    purrr,
+    readr,
+    rlang,
+    stringr,
+    tibble,
+    tidyr,
+    xml2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
