@@ -8,8 +8,11 @@
 [![R-CMD-check](https://github.com/gerriosantos/cursoR/workflows/R-CMD-check/badge.svg)](https://github.com/gerriosantos/cursoR/actions)
 <!-- badges: end -->
 
-\[![Codecov test
-coverage](https://codecov.io/gh/gerriosantos/cursoR/branch/master/graph/badge.svg)%5D(<https://codecov.io/gh/gerriosantos/cursoR?branch=master>)
+<!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/gerriosantos/cursoR/branch/master/graph/badge.svg)](https://codecov.io/gh/gerriosantos/cursoR?branch=master)
+<!-- badges: start -->
 
 The goal of cursoR is to …
 
