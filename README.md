@@ -4,6 +4,8 @@
 # cursoR
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/gerriosantos/cursoR/workflows/R-CMD-check/badge.svg)](https://github.com/gerriosantos/cursoR/actions)
 <!-- badges: end -->
 
 The goal of cursoR is to …
